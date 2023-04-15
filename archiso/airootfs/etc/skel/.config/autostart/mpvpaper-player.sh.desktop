@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Exec=mpvpaper -spf -n 1200 -o '--ao=null --reset-on-next-file=loop --loop-playlist --shuffle --panscan=1 --hwdec=auto' '*' ~/GetFreeOS/mpvpaper/
+Icon=dialog-scripts
+Name=mpvpaper-player
+Path=
+Type=Application
+X-KDE-AutostartScript=true
