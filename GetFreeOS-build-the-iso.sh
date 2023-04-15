@@ -39,7 +39,7 @@ echo
 	outFolder=$HOME"/GetFreeOS-Out"
 	archisoVersion=$(sudo pacman -Q archiso)
 	filesbuildFolder=/mnt/Store/Linux/GetFreeOS/Plasma/archiso
-	filesbuildFolder=$HOME"/GetFreeOS-'$desktop'/archiso"
+	filesbuildFolder=$HOME"/GetFreeOS-$desktop/archiso"
 
 	personalrepo=false
 
@@ -127,7 +127,7 @@ echo
 
 	echo
 	echo "Saving current archiso version to readme"
-	sudo sed -i "s/\(^archiso-version=\).*/\1$archisoVersion/" ../archiso.readme
+	sudo sed -i "s/\(^archiso-version=\).*/\1$archisoVersion/" archiso.readme
 	echo
 	echo "Making mkarchiso verbose"
 	sudo sed -i 's/quiet="y"/quiet="n"/g' /usr/bin/mkarchiso
