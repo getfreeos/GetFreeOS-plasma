@@ -293,10 +293,10 @@ chaotic-keyring
 # hardened or zen
 #linux-hardened
 #linux-hardened-headers
-#linux
-#linux-headers
-linux-zen
-linux-zen-headers
+linux
+linux-headers
+#linux-zen
+#linux-zen-headers
 #######################################
 rate-mirrors
 #######################################################
