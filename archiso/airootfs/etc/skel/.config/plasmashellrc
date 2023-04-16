@@ -2,11 +2,14 @@
 Recent Files[$e]=getfreeoslinux.png,file:~/.config/getfreeoslinux.png
 detailViewIconSize=16
 
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
 [PlasmaViews][Panel 2][Defaults]
 thickness=44
 
 [PlasmaViews][Panel 24]
-panelVisibility=1
+panelVisibility=0
 
 [PlasmaViews][Panel 24][Defaults]
 thickness=40

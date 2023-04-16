@@ -24,21 +24,7 @@ tput sgr0
 echo "################################################################## "
 echo
 
-	#Let us set the desktop"
-	#First letter of desktop is small letter
-
-	desktop="plasma"
-	dmDesktop="plasma"
-
-	linuxVersion="$(date +%Y.%m.%d)"-x86_64
-	isoLabel='GetFreeOS-'$desktop'-'$linuxVersion'.iso'
-
-	# setting of the general parameters
-	archisoRequiredVersion="archiso 70-1"
-	buildFolder=$HOME"/GetFreeOS-build"
-	outFolder=$HOME"/GetFreeOS-Out"
-	archisoVersion=$(sudo pacman -Q archiso)
-	filesbuildFolder=$HOME"/GetFreeOS-$desktop/archiso"
+source GetFreeOS.conf
 
 	personalrepo=false
 
