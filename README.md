@@ -1,5 +1,5 @@
 # GetFreeOS-plasma
-Build GetFreeOS plasma - Arch
+Build GetFreeOS plasma
 
 ##
 
