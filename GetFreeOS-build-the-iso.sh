@@ -38,7 +38,6 @@ echo
 	buildFolder=$HOME"/GetFreeOS-build"
 	outFolder=$HOME"/GetFreeOS-Out"
 	archisoVersion=$(sudo pacman -Q archiso)
-	filesbuildFolder=/mnt/Store/Linux/GetFreeOS/Plasma/archiso
 	filesbuildFolder=$HOME"/GetFreeOS-$desktop/archiso"
 
 	personalrepo=false
