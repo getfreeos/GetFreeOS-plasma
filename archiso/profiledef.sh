@@ -3,7 +3,6 @@
 
 iso_name="GetFreeOS-plasma"
 iso_label="GetFreeOS-plasma-$(date +%Y.%m.%d)"
-#iso_label="GetFreeOS-plasma-$(date +%Y.%m)"
 iso_publisher="GetFreeOS <https://GetFreeOS.com>"
 iso_application="GetFreeOS Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
@@ -22,10 +21,11 @@ file_permissions=(
   ["/root/.automated_script.sh"]="0:0:755"
   ["/usr/local/bin/choose-mirror"]="0:0:755"
   ["/usr/local/bin/Installation_guide"]="0:0:755"
+  ["/usr/local/bin/getfreeos-done"]="0:0:755"
   ["/usr/local/bin/livecd-sound"]="0:0:755"
   ["/etc/polkit-1/rules.d"]="0:0:750"
   ["/etc/sudoers.d"]="0:0:750"
   ["/usr/local/bin/getfreeos-make-a-pure-arch"]="0:0:755"
   ["/usr/local/bin/getfreeos-displaymanager-check"]="0:0:755"
   ["/usr/local/bin/fix-keys"]="0:0:755"
-)
+  )

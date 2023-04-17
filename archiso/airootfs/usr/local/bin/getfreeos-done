@@ -1,0 +1,26 @@
+#!/bin/bash
+#set -e
+###############################################################################
+#
+#   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
+#
+###############################################################################
+#if necessary we can use this script too
+echo "#################################"
+echo "Important folders"
+echo "#################################"
+cp -fr /etc/getfreeos/.all/ /
+rm -fr /etc/getfreeos/.all/
+rm /root/{.automated_script.sh,.zlogin}
+echo "#################################"
+echo "Copy /etc/skel to /root"
+echo "#################################"
+cp -aT /etc/skel/ /root/
+echo "#################################"
+echo "Permission of root"
+echo "#################################"
+chmod -v 750 /root
+echo "#################################"
+echo "End"
+echo "#################################"
+rm /usr/local/bin/getfreeos-done
