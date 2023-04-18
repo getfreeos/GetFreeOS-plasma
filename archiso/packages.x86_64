@@ -242,6 +242,7 @@ libgsf
 libopenraw
 poppler-glib
 poppler-qt5
+getfreeos-logo
 getfreeos-calamares
 getfreeos-calamares-config-plasma
 xterm
