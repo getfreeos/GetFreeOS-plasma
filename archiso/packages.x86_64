@@ -383,7 +383,7 @@ polkit
 polkit-kde-agent
 polkit-qt5
 networkmanager-openvpn
-brave-bin
+brave
 librewolf
 yay
 paru
