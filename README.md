@@ -1,7 +1,7 @@
 # GetFreeOS-plasma
 Build GetFreeOS plasma
 
-![Screenshot.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot.](https://getfreeos.com/wp-content/uploads/2023/04/Screenshot-1024x576.png)
 
 ##
 ```ruby
