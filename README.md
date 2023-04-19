@@ -1,7 +1,8 @@
 # GetFreeOS-plasma
 Build GetFreeOS plasma
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot.](https://getfreeos.com/wp-content/uploads/2023/04/Screenshot-1024x576.png)
+
 ##
 ```ruby
 git clone https://github.com/waelisa/GetFreeOS-plasma.git
@@ -13,5 +14,3 @@ cd GetFreeOS-plasma
 ##
 
 Note:- script work in your home folder.
-
-Thanks to Erik Dubois for the great work.
