@@ -384,7 +384,7 @@ polkit-kde-agent
 polkit-qt5
 networkmanager-openvpn
 brave-bin
-librewolf-bin
+librewolf
 yay
 paru
 #plasma-meta
