@@ -1,7 +1,8 @@
 # GetFreeOS-plasma
 Build GetFreeOS plasma
 
-![Screenshot.](![image](https://user-images.githubusercontent.com/24850589/233143823-7e624791-1414-4060-bc11-d5daf0a46514.png))
+![Screenshot.]([https://github.com/waelisa/GetFreeOS-plasma/raw/main/Screenshot.png))
+
 ##
 ```ruby
 git clone https://github.com/waelisa/GetFreeOS-plasma.git
