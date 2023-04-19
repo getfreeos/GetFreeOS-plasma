@@ -13,4 +13,4 @@ cd GetFreeOS-plasma
 ```
 ##
 
-Note:- script work in your home folder & don't run script with sudo.
+Note:- You need GetFreeOS repo & Chaotic repo ready on your system first, script work in your home folder & don't run script with sudo.
