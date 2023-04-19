@@ -13,4 +13,4 @@ cd GetFreeOS-plasma
 ```
 ##
 
-Note:- script work in your home folder.
+Note:- script work in your home folder & don't run script with sudo.
