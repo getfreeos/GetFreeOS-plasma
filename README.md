@@ -1,7 +1,7 @@
 # GetFreeOS-plasma
 Build GetFreeOS plasma
 
-![Screenshot.]([https://github.com/waelisa/GetFreeOS-plasma/raw/main/Screenshot.png))
+![Screenshot.]([https://github.com/waelisa/GetFreeOS-plasma/raw/main/Screenshot.png])
 
 ##
 ```ruby
