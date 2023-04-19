@@ -1,7 +1,7 @@
 # GetFreeOS-plasma
 Build GetFreeOS plasma
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot.](![image](https://user-images.githubusercontent.com/24850589/233143823-7e624791-1414-4060-bc11-d5daf0a46514.png))
 ##
 ```ruby
 git clone https://github.com/waelisa/GetFreeOS-plasma.git
