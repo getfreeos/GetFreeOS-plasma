@@ -24,7 +24,7 @@ echo "------------------" >> "/etc/motd"
 systemctl enable NetworkManager.service systemd-timesyncd.service bluetooth.service
 systemctl enable vboxservice.service vmtoolsd.service vmware-vmblock-fuse.service
 systemctl set-default multi-user.target
-#systemctl enable intel.service
+systemctl enable ufw.service
 
 # TEMPORARY CUSTOM FIXES
 
