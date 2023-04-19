@@ -14,5 +14,3 @@ cd GetFreeOS-plasma
 ##
 
 Note:- script work in your home folder.
-
-Thanks to Erik Dubois for the great work.
