@@ -3,7 +3,6 @@
 
 iso_name="GetFreeOS-plasma"
 iso_label="GetFreeOS-plasma-$(date +%Y.%m.%d)"
-#iso_label="GetFreeOS-plasma-$(date +%Y.%m)"
 iso_publisher="GetFreeOS <https://GetFreeOS.com>"
 iso_application="GetFreeOS Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
