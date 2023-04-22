@@ -5,7 +5,7 @@ Build GetFreeOS plasma
 
 ##
 ```ruby
-git clone https://github.com/waelisa/GetFreeOS-plasma.git
+git clone https://github.com/getfreeos/GetFreeOS-plasma.git
 
 cd GetFreeOS-plasma
 
