@@ -1,0 +1,6 @@
+0
+/home/liveuser/.config/variety/Downloaded/wallhaven_landscape/wallhaven-y88gg7.jpg
+/home/liveuser/.config/variety/Downloaded/wallhaven_landscape/wallhaven-x1kpl3.jpg
+/home/liveuser/.config/variety/Downloaded/wallhaven_landscape/wallhaven-8x98w2.jpg
+customButton/etc/getfreeos/getfreeoslinux.svg
+useCustomButtontrue

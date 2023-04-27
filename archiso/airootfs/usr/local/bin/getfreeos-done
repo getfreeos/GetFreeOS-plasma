@@ -1,0 +1,9 @@
+#!/bin/bash
+#set -e
+if [ -f /usr/bin/snapper ]; then
+	for i in {1..20};
+	do
+		snapper --no-dbus delete $i
+	done
+fi
+rm -f /usr/local/bin/getfreeos-done

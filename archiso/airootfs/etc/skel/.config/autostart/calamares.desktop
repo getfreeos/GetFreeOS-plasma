@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Categories=Qt;System;
+Comment=Calamares — System Installer
+Exec=sh -c "pkexec calamares"
+GenericName=System Installer
+Icon=calamares
+Keywords=calamares;system;installer;
+Name=Install System
+StartupNotify=true
+Terminal=false
+TryExec=calamares
+Type=Application
+Version=1.0
+X-AppStream-Ignore=true
