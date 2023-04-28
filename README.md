@@ -13,4 +13,4 @@ sudo ./GetFreeOS-build-the-iso.sh
 ```
 ##
 
-Note:- You need GetFreeOS repo & Chaotic repo ready on your system first, don't run script with sudo.
+Note:- You need GetFreeOS repo & Chaotic repo ready on your system first, the build & iso in root folder.
