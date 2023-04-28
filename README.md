@@ -9,7 +9,7 @@ git clone https://github.com/getfreeos/GetFreeOS-plasma.git
 
 cd GetFreeOS-plasma
 
-./GetFreeOS-build-the-iso.sh
+sudo ./GetFreeOS-build-the-iso.sh
 ```
 ##
 
