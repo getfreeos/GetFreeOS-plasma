@@ -26,5 +26,6 @@ file_permissions=(
   ["/usr/local/bin/choose-mirror"]="0:0:755"
   ["/usr/local/bin/livecd-sound"]="0:0:755"
   ["/usr/local/bin/getfreeos-displaymanager-check"]="0:0:755"
+  ["/usr/local/bin/getfreeos-done"]="0:0:755"
   ["/usr/local/bin/fix-keys"]="0:0:755"
 )
