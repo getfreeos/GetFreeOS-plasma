@@ -511,7 +511,7 @@ adobe-source-han-sans-cn-fonts
 getfreeos-calamares
 getfreeos-calamares-config-plasma
 getfreeos-logo
-#getfreeos-sys-installer
+getfreeos-grub-theme-git
 
 ###########################################################################
 #                                DISPLAY MANAGERS
