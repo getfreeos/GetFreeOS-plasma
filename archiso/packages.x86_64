@@ -202,8 +202,12 @@ libdvdcss
 #pulseaudio
 #pulseaudio-alsa
 #pavucontrol
-#wireplumber
-pipewire-media-session
+
+#pipewire-media-session
+wireplumber
+pipewire
+libwireplumber
+gst-plugin-pipewire
 pipewire-pulse
 pipewire-jack
 
