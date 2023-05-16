@@ -509,7 +509,7 @@ adobe-source-han-sans-cn-fonts
 ###########################################################################
 
 getfreeos-calamares
-getfreeos-calamares-config-plasma
+getfreeos-calamares-config-plasma-zen
 getfreeos-logo
 getfreeos-grub-theme-git
 
@@ -703,10 +703,10 @@ chaotic-keyring
 # hardened or zen
 #linux-hardened
 #linux-hardened-headers
-linux
-linux-headers
-#linux-zen
-#linux-zen-headers
+#linux
+#linux-headers
+linux-zen
+linux-zen-headers
 #######################################
 rate-mirrors
 #######################################################
