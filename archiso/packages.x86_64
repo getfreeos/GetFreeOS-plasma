@@ -40,6 +40,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
+foot-terminfo
 fsarchiver
 gnu-netcat
 gpart
@@ -130,6 +131,7 @@ usbutils
 vim
 #virtualbox-guest-utils-nox
 vpnc
+wezterm-terminfo
 wireless-regdb
 wireless_tools
 wpa_supplicant
@@ -871,6 +873,7 @@ nyrna
 vkbasalt
 reshade-shaders-git
 steamtinkerlaunch
+mangohud-git
 goverlay
 #######################################################
 ###                      END                        ###
