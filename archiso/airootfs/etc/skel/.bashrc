@@ -25,7 +25,6 @@ PS1='[\u@\h \W]\$ '
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-
 if [ -d "$HOME/.bin" ] ;
   then PATH="$HOME/.bin:$PATH"
 fi
@@ -41,6 +40,8 @@ bind "set completion-ignore-case on"
 
 # GetFreeOS
 alias getfreeos-key='sudo sh /etc/getfreeos/getfreeos-key.sh'
+# Arabic Keyboard Layouts
+alias ara="exec setxkbmap -model pc105 -layout us,ara -option 'grp:alt_shift_toggle'"
 
 #list
 alias ls='ls --color=auto'
@@ -375,3 +376,6 @@ neofetch
 #ALCI
 ########
 alias evb='sudo systemctl enable --now vboxservice.service'
+
+# Added by ProtonUp-Qt on 26-06-2023 02:54:29
+if [ -d "/home/wael/stl/prefix" ]; then export PATH="$PATH:/home/wael/stl/prefix"; fi
