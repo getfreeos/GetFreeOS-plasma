@@ -1,7 +1,7 @@
 # GetFreeOS-plasma
 Build GetFreeOS plasma
 
-![Screenshot.](https://getfreeos.com/wp-content/uploads/2023/04/Screenshot-1024x576.png)
+![Screenshot.](https://getfreeos.com/wp-content/uploads/2023/06/Screenshot-1024x528.png)
 
 ##
 ```ruby
