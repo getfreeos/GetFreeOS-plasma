@@ -1,3 +1,0 @@
-Defaults targetpw
-Defaults timestamp_timeout=5
-%wheel ALL=(ALL) ALL
