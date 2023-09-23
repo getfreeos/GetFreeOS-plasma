@@ -60,7 +60,7 @@ less
 #lftp
 libfido2
 libusb-compat
-#linux
+linux
 linux-atm
 linux-firmware
 linux-firmware-qlogic
