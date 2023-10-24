@@ -60,7 +60,7 @@ less
 #lftp
 libfido2
 libusb-compat
-linux
+#linux
 linux-atm
 linux-firmware
 linux-firmware-qlogic
@@ -141,7 +141,7 @@ xl2tpd
 aic94xx-firmware
 dialog
 dnsutils
-linux-headers
+#linux-headers
 logrotate
 ntp
 upd72020x-fw
