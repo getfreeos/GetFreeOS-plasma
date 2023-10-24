@@ -503,9 +503,9 @@ yay
 ckbcomp
 xkeyboard-config
 upower
-kcoreaddons
-kconfig
-ki18n
+kcoreaddons5
+kconfig5
+ki18n5
 kservice
 kwidgetsaddons
 kpmcore
@@ -513,7 +513,7 @@ kpmcore
 boost-libs
 libpwquality
 squashfs-tools
-plasma-framework
+plasma-framework5
 hwinfo
 qt5-xmlpatterns
 adobe-source-han-sans-jp-fonts
