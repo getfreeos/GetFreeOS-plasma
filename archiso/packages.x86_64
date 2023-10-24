@@ -506,8 +506,8 @@ upower
 kcoreaddons5
 kconfig5
 ki18n5
-kservice
-kwidgetsaddons
+kservice5
+kwidgetsaddons5
 kpmcore
 #arcolinux-kpmcore
 boost-libs
