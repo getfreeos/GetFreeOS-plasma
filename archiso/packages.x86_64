@@ -116,7 +116,7 @@ squashfs-tools
 sudo
 syslinux
 #systemd-resolvconf
-arcolinux-systemd-services-git
+#arcolinux-systemd-services-git
 tcpdump
 terminus-font
 testdisk
