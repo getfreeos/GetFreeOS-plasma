@@ -1,26 +1,5 @@
 # See this wiki page for more info:
 # https://github.com/dylanaraps/neofetch/wiki/Customizing-Info
-
-########################################################################
-# Addone by A1RM4X https://github.com/Gaming-Linux-FR/GLFfetch/tree/main
-# Start
-
-# Set date
-let today=$(date +%s)
-
-# Set Distro install date
-### might need better command here, looking for help (not a coder here)
-let distro_install=$(stat -c %W /)
-
-# Set time between install day and today
-timeinstalled=$((today - distro_install))
-
-# Translate minutes into days
-challenge=$((timeinstalled / 86400))
-
-# End
-########################################################################
-
 print_info() {
     info title
     info underline
@@ -42,8 +21,7 @@ print_info() {
     info "CPU" cpu
     info "GPU" gpu
     info "Memory" memory
-	prin "Installation date" "$(echo $distro_install | awk '{print strftime("%e/%m/%Y",$1)}')"
-    prin "Installation by days" "$(echo $challenge)"
+
     # info "GPU Driver" gpu_driver  # Linux/macOS only
     # info "CPU Usage" cpu_usage
     # info "Disk" disk
@@ -731,7 +709,7 @@ image_backend="ascii"
 #       In ascii mode, distro ascii art will be used and in an image mode, your
 #       wallpaper will be used.
 image_source="auto"
-#image_source=~/.config/neofetch/getfreeoslinux.png
+
 
 # Ascii Options
 
