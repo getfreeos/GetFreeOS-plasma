@@ -376,6 +376,3 @@ neofetch
 #ALCI
 ########
 alias evb='sudo systemctl enable --now vboxservice.service'
-
-# Added by ProtonUp-Qt on 26-06-2023 02:54:29
-if [ -d "/home/wael/stl/prefix" ]; then export PATH="$PATH:/home/wael/stl/prefix"; fi
