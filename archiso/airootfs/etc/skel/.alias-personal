@@ -1,0 +1,14 @@
+#
+# ~/.bashrc-personal
+#
+
+#alias howold='sudo lshw | grep -B 3 -A 8 BIOS'
+
+# Arabic Keyboard Layouts for I3 if not working
+#alias ara="exec setxkbmap -model pc105 -layout us,ara -option 'grp:alt_shift_toggle'"
+
+# Cuda
+#set PYTORCH_CUDA_ALLOC_CONF=garbage_collection_threshold:0.9,max_split_size_mb:512
+#export BNB_CUDA_VERSION=118
+#export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/cuda/targets/x86_64-linux/lib
+

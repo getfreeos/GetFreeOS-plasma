@@ -134,6 +134,9 @@ fi
 
 ### ALIASES ###
 
+# Your .bash-personal file
+[[ -f ~/.alias-personal ]] && . ~/.alias-personal
+
 #list
 alias ls='ls --color=auto'
 alias la='ls -a'
