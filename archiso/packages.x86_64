@@ -658,7 +658,7 @@ sddm
 
 #plasma-meta
 plasma
-packagekit-qt5
+#packagekit-qt5
 partitionmanager
 kdeconnect
 systemd-kcm
