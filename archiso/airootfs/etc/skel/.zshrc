@@ -497,7 +497,8 @@ alias personal='cp -Rf /personal/* ~'
 [[ -f ~/.zshrc-personal ]] && . ~/.zshrc-personal
 
 # reporting tools - install when not installed
-neofetch
+#neofetch
+fastfetch
 #screenfetch
 #alsi
 #paleofetch

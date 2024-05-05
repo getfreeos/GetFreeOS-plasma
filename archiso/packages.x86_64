@@ -476,7 +476,7 @@ grub-customizer
 hardcode-fixer-git
 inxi
 mintstick-git
-neofetch
+fastfetch
 #numix-gtk-theme-git
 pamac-aur
 paru
